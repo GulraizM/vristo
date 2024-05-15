@@ -2,4 +2,4 @@
 Node.js Dashboards Vristo
 
 Live Preview Dashboard
-https://github.com/GulraizM/vristo
+https://react.vristo.sbthemes.com/
